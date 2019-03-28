@@ -15,3 +15,14 @@ img {
 section {
   margin-top: 3rem;
 }
+
+a, a:visited {
+  color: #ed225d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
